@@ -31,6 +31,9 @@ def save_():
 def pdf_successful_():
         return pdf_successful
 
+def confirmation_():
+        return confirmation
+
 def confirmation_delete_():
         return confirmation_delete
 
